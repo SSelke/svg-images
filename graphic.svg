@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#00FFFF;stroke-miterlimit:10;stroke-dasharray:12.0799,12.0799;}
+	.st1{fill:#00FFFF;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g>
+	<circle class="st0" cx="50" cy="50" r="50">
+		<animateTransform attributeName="transform"
+			attributeType="XML"
+			type="rotate"
+			from="0 50 50"
+			to="360 50 50"
+			dur="10s"
+			repeatCount="indefinite" />
+	</circle>
+</g>
+<circle class="st1" cx="50" cy="50" r="42.3"/>
+<path class="st2" d="M37.7,62.7L37.7,62.7c-2.2,0-4-1.8-4-4V41.3c0-2.2,1.8-4,4-4h0c2.2,0,4,1.8,4,4v17.3
+	C41.7,60.9,39.9,62.7,37.7,62.7z">
+
+	<animateTransform id="asd" attributeName="transform"
+		attributeType="XML"
+		type="translate"
+		dur="1s"
+		values="0,6;0,-6;0,6"
+		repeatCount="indefinite" />
+</path>
+<path class="st2" d="M50,62.7L50,62.7c-2.2,0-4-1.8-4-4V41.3c0-2.2,1.8-4,4-4h0c2.2,0,4,1.8,4,4v17.3C54,60.9,52.2,62.7,50,62.7z">
+
+	<animateTransform id="asd" attributeName="transform"
+		attributeType="XML"
+		type="translate"
+		begin=".1"
+		dur="1s"
+		values="0,6;0,-6;0,6"
+		repeatCount="indefinite" />
+	</path>
+
+<path class="st2" d="M62,62.7L62,62.7c-2.2,0-4-1.8-4-4V41.3c0-2.2,1.8-4,4-4h0c2.2,0,4,1.8,4,4v17.3C66,60.9,64.2,62.7,62,62.7z">
+
+	<animateTransform id="asd" attributeName="transform"
+		attributeType="XML"
+		type="translate"
+		begin=".2"
+		dur="1s"
+		values="0,6;0,-6;0,6"
+		repeatCount="indefinite" />
+</path>
+</svg>

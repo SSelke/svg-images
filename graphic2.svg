@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#0071BC;stroke-miterlimit:10;stroke-dasharray:12.4679,12.4679;}
+	.st1{fill:none;stroke:#C1272D;stroke-miterlimit:10;stroke-dasharray:11.8302,11.8302;}
+	.st2{fill:none;stroke:#2E3192;stroke-miterlimit:10;stroke-dasharray:12.1705,12.1705;}
+	.st3{fill:none;stroke:#C1272D;stroke-miterlimit:10;stroke-dasharray:11.5162,11.5162;}
+	.st4{fill:#0071BC;}
+	.st0:hover{
+		animation-duration: 2s;
+	}
+</style>
+<g>
+	<circle class="st0" cx="50" cy="50" r="43.7">
+		<animateTransform attributeName="transform"
+			attributeType="XML"
+			type="rotate"
+			from="0 50 50"
+			to="360 50 50"
+			dur="0.5s"
+			repeatCount="indefinite" />
+	</circle>
+</g>
+<g>
+	<circle class="st1" cx="50" cy="50" r="37.7">
+		<animateTransform attributeName="transform"
+			attributeType="XML"
+			type="rotate"
+			from="0 50 50"
+			to="360 50 50"
+			dur="8s"
+			repeatCount="indefinite" />
+	</circle>
+</g>
+<g>
+	<circle class="st2" cx="50" cy="50" r="31">
+		<animateTransform attributeName="transform"
+			attributeType="XML"
+			type="rotate"
+			from="0 50 50"
+			to="360 50 50"
+			dur="6s"
+			repeatCount="indefinite" />
+	</circle>
+</g>
+<g>
+	<circle class="st3" cx="50" cy="50" r="22">
+		<animateTransform attributeName="transform"
+			attributeType="XML"
+			type="rotate"
+			from="0 50 50"
+			to="360 50 50"
+			dur="4s"
+			repeatCount="indefinite" />
+	</circle>
+</g>
+<circle class="st4" cx="50" cy="50" r="13"/>
+</svg>
